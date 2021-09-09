@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Alves de Amorim</h1>
 <h3 align="center">An electrical engineering enthusiastic on Python and data science</h3>
 
-- 🔭 I’m currently working on [Genetic Algorithm applyed on Electrical Networks coordenation](https://github.com/GB255/coordenacao_redes)
-
-- 🌱 I’m currently learning **Data Science on a Bootcamp of IGTI**
+- 🔭 I’m currently working on **Brisa Robotica**
 
 - 📫 How to reach me **gabriel.amorim255@gmail.com**
 
